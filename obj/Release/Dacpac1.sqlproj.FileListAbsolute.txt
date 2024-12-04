@@ -1,0 +1,10 @@
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\bin\Release\Dacpac1.dacpac
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\bin\Release\Dacpac1.dll
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\bin\Release\Dacpac1.pdb
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Release\Dacpac1.sqlproj.AssemblyReference.cache
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Release\Model.xml
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Release\refactor.xml
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Release\postdeploy.sql
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Release\predeploy.sql
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Release\Dacpac1.dll
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Release\Dacpac1.pdb

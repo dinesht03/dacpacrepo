@@ -1,0 +1,6 @@
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\bin\Debug\Dacpac1.dacpac
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\bin\Debug\Dacpac1.dll
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\bin\Debug\Dacpac1.pdb
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Debug\Dacpac1.sqlproj.AssemblyReference.cache
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Debug\Dacpac1.dll
+C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\obj\Debug\Dacpac1.pdb

@@ -1,0 +1,10 @@
+11/20/2024 12:10:08 PM	This log contains information about the import schema operation into project 'Dacpac1' on computer 'AZR-HQ-CRWQEW5Z' by user 'dinesh.thatipalli'.
+11/20/2024 12:10:08 PM	Deserializing model
+11/20/2024 12:10:09 PM	Resolving model
+11/20/2024 12:10:09 PM	Visiting imported model for types
+11/20/2024 12:10:09 PM	Scanning project for duplicate elements
+11/20/2024 12:10:09 PM	Finished duplicate element processing
+11/20/2024 12:10:09 PM	Processing extra files
+11/20/2024 12:10:09 PM	Finished importing Data-tier Application file.
+11/20/2024 12:10:09 PM	A summary of the import was saved to the following location: C:\Users\dinesh.thatipalli\source\repos\Dacpac1sol\Dacpac1\Import Schema Logs\Dacpac1_20241120064008.log
+11/20/2024 12:10:09 PM	Click Finish to continue...
